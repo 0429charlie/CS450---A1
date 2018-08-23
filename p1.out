@@ -1,0 +1,28 @@
+iverilog -g2005-sv -s counter_tb -o counter.vvp counter.sv
+vvp -n counter.vvp
+VCD info: dumpfile dump.vcd opened for output.
+t=10 tc=0
+t=30 tc=1
+t=50 tc=0
+t=70 tc=1
+iverilog -g2005-sv -s cordic_tb -o cordic.vvp cordic.sv
+vvp -n cordic.vvp
+VCD info: dumpfile dump.vcd opened for output.
+t=170 sin=0004 cos=3fff
+t=350 sin=35d7 cos=2296
+iverilog -g2005-sv -s plru_tb -o plru.vvp plru.sv
+vvp -n plru.vvp
+VCD info: dumpfile dump.vcd opened for output.
+t= 0: address xxxx hit x
+t=10: address 0000 hit 0
+t=20: address 0010 hit 0
+t=30: address 0000 hit 1
+t=40: address 0010 hit 1
+t=50: address 0100 hit 0
+t=60: address 0200 hit 0
+t=70: address 0300 hit 0
+t=80: address 0400 hit 0
+t=90: address 0100 hit 1
+t=100: address 0300 hit 1
+t=120: address 0000 hit 0
+t=130: address 0200 hit 0

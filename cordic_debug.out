@@ -1,0 +1,35 @@
+t= 10 i= 0, x=26dd, y=0000, z=0000
+t= 20 i= 1, x=26dd, y=26dd, z=cdbc
+t= 30 i= 2, x=3a4b, y=136f, z=eb68
+t= 40 i= 3, x=3f26, y=04dd, z=fb16
+t= 50 i= 4, x=3fc1, y=fcf9, z=030b
+t= 60 i= 5, x=3ff2, y=00f5, z=ff0c
+t= 70 i= 6, x=3ff9, y=fef6, z=010c
+t= 80 i= 7, x=3ffe, y=fff5, z=000c
+t= 90 i= 8, x=3fff, y=0074, z=ff8c
+t=100 i= 9, x=3fff, y=0035, z=ffcc
+t=110 i=10, x=3fff, y=0016, z=ffec
+t=120 i=11, x=3fff, y=0007, z=fffc
+t=130 i=12, x=3fff, y=0000, z=0004
+t=140 i=13, x=3fff, y=0003, z=0000
+t=150 i=14, x=3fff, y=0004, z=fffe
+t=160 i=15, x=3fff, y=0004, z=ffff
+t=170 sin=0004 cos=3fff
+
+t=190 i= 0, x=26dd, y=0000, z=4000
+t=200 i= 1, x=26dd, y=26dd, z=0dbc
+t=210 i= 2, x=136f, y=3a4b, z=f010
+t=220 i= 3, x=2201, y=3570, z=ffbe
+t=230 i= 4, x=28af, y=3130, z=07b3
+t=240 i= 5, x=259c, y=33ba, z=03b4
+t=250 i= 6, x=23ff, y=34e6, z=01b4
+t=260 i= 7, x=232c, y=3575, z=00b4
+t=270 i= 8, x=22c2, y=35bb, z=0034
+t=280 i= 9, x=228d, y=35dd, z=fff4
+t=290 i=10, x=22a7, y=35cc, z=0014
+t=300 i=11, x=229a, y=35d4, z=0004
+t=310 i=12, x=2294, y=35d8, z=fffc
+t=320 i=13, x=2297, y=35d6, z=0000
+t=330 i=14, x=2296, y=35d7, z=fffe
+t=340 i=15, x=2296, y=35d7, z=ffff
+t=350 sin=35d7 cos=2296
